@@ -35,3 +35,15 @@ img {
 a{
     text-decoration: none;
 }
+
+h2 {
+    float: left;
+    text-align: center;
+    color: red;
+}
+
+h3 {
+    float: left;
+    text-align: center;
+    color: red;
+}
