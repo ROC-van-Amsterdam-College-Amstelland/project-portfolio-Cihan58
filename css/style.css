@@ -22,10 +22,6 @@ h2 {
     color:red;
 }
 
-html {
-    background-color: orange;
-}
-
 img {
     border-radius: 10px;
     border: 5px solid black;
@@ -47,3 +43,14 @@ h3 {
     text-align: center;
     color: red;
 }
+
+iframe {
+    text-align: right;
+    background-color: orange;
+}
+
+body {
+    background-image: url("../img/nature2.jpg");
+    background-size: 100%;
+    margin: 0;
+  }
